@@ -40,14 +40,11 @@
 </p>
 
 ---
-
 ## 🗂️ Most Used Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sauravyadav0811/Sauravyadav0811/main/assets/language-usage.png" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sauravyadav0811&layout=compact&theme=default&langs_count=8" alt="Most Used Languages" />
 </p>
-
-<!-- Make sure to upload 'language-usage.png' in an 'assets' folder in your GitHub repo -->
 
 ---
 
