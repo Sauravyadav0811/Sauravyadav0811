@@ -28,7 +28,8 @@
 ---
 
 
-## 🏆 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sauravyadav0811&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
@@ -40,6 +41,15 @@
 
 ---
 
+## 🗂️ Most Used Languages
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sauravyadav0811/Sauravyadav0811/main/assets/language-usage.png" alt="Most Used Languages" />
+</p>
+
+<!-- Make sure to upload 'language-usage.png' in an 'assets' folder in your GitHub repo -->
+
+---
 
 
 ## 🌐 Connect with Me
@@ -49,6 +59,3 @@
   <a href="https://github.com/Sauravyadav0811" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
 </p>
 
----
-
-> _“Let’s innovate, automate, and elevate together 🚀”_
