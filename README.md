@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 Final-year Computer Engineering student (Mumbai University) passionate about building impactful, real-world applications.  
+🎓 Recent  Computer Engineering Graduate (Mumbai University) passionate about building impactful, real-world applications.  
 💡 I specialize in crafting intelligent, scalable apps using **Python**, **LLMs**, **Streamlit**, and **AWS**.  
 🧠 Currently exploring **Deep Learning**, **Generative AI**, and **Full-Stack ML deployment**.  
 📊 Skilled in **data analysis**, **dashboarding**, and **AI-powered tools** across **fintech** and **healthtech** domains.  
@@ -22,7 +22,9 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,sql,mysql,streamlit,pandas,numpy,scikit-learn,tensorflow,docker,git,github,aws,powerbi,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,docker,sql" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
